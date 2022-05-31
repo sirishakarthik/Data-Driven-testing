@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\Users\forou\Downloads\eclipse-java-2021-12-R-win32-x86_64\eclipse\automation\.metadata\.plugins\org.eclipse.jdt.core
+1531611151.index
+51879742.index
+1865797976.index
+1440012300.index
+2319066293.index
+2744103560.index
+13857083.index
+3164473780.index
+3381953048.index
+3459442127.index
+249570055.index
+1433884242.index
+2636992389.index
+3750097381.index
+1837745670.index
+1087164184.index
+2983280468.index
+791585285.index

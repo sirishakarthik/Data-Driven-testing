@@ -1,0 +1,32 @@
+package DataDriven.Data_testing;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class Datadriventesting {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+FileInputStream fis= new FileInputStream("C:\\Users\\forou\\OneDrive\\Documents\\seleniumAutomation.xlsx");
+  XSSFWorkbook wb= new XSSFWorkbook(fis);
+int sheets = wb.getNumberOfSheets();
+	System.out.println(sheets);
+		
+		
+		
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	}
+
+
